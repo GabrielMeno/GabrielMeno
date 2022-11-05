@@ -1,7 +1,5 @@
 # Me chamo Gabriel, sou um estudante em programação com foco em FrontEnd.
 
-<br>
-
 ### Redes Sociais e contatos abaixo!
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gabrielmenoncin/)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/meno.gabriel1)
@@ -13,8 +11,6 @@
     
 ### Tecnologias que utilizo
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=GabrielMeno"/>
-
-## SKILLS 🛠️
 
 </div>
 <div style="display: inline_block"><br>
