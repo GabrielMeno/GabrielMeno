@@ -1,4 +1,5 @@
 # Me chamo Gabriel, sou um estudante em programação com foco em FrontEnd.
+![](https://komarev.com/ghpvc/?username=GabrielMeno)
 
 ### Redes Sociais e contatos abaixo!
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gabrielmenoncin/)
