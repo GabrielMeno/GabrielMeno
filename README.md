@@ -12,7 +12,7 @@
 
 <div align="center">
   <a href="https://github.com/GabrielMeno">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=rGabrielMeno&show_icons=true&hide_border=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=GabrielMeno&show_icons=true&hide_border=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GabrielMeno&layout=compact&langs_count=7&theme=dracula"/>
 </div>
 
