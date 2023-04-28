@@ -1,4 +1,3 @@
-# Me chamo Gabriel, sou um estudante em programação com foco em FrontEnd.
 ![](https://komarev.com/ghpvc/?username=GabrielMeno)
 
 ### Redes Sociais e contatos abaixo!
