@@ -1,8 +1,8 @@
 <h3 align="center">Hey, there! Im Gabriel :)</h3>
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats-ruby-one.vercel.app/api?username=GabrielMeno&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats-ruby-one.vercel.app/api/top-langs/?username=GabrielMeno&layout=compact&langs_count=7&theme=tokyonight"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=GabrielMeno&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GabrielMeno&layout=compact&langs_count=7&theme=tokyonight"/>
 </div>
 <br>
 <hr>
