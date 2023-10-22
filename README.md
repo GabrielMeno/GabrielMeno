@@ -20,7 +20,7 @@
 </div><br><hr>
 
  
-![snake animation](https://github.com/GabrielMeno/GabrielMeno/blob/output/github-contribution-grid-snake2.svg)
+![snake animation](https://github.com/GabrielMeno/blob/output/github-contribution-grid-snake2.svg)
 
 </div>
 
