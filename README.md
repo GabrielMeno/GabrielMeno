@@ -1,7 +1,7 @@
 <div align="center">
 
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=30&pause=1000&color=FAB387&center=true&vCenter=true&width=435&lines=Hey+there!+I'm+Gabriel+%F0%9F%91%8B;Developer+%26+Designer;Java+%7C+React+%7C+Motion+%26+UX" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=30&pause=1000&color=FAB387&center=true&vCenter=true&width=500&lines=Hey+there!+I'm+Gabriel+%F0%9F%91%8B;Developer+%26+Designer;Java+%7C+React+%7C+Motion+%26+UX" alt="Typing SVG" />
   </a>
   <br/>
 
@@ -47,10 +47,9 @@
 </div>
 
 <br>
-<br>
+<hr>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=fab387&height=120&section=footer" width="100%"/>
-
+<h3 align="center">📩 Contact & Social</h3>
 <div align="center">
   <a href="https://www.instagram.com/meno.gabriel1" target="_blank">
     <img src="https://img.shields.io/badge/-Instagram-%23fab387?style=for-the-badge&logo=instagram&logoColor=black" target="_blank">
@@ -66,4 +65,5 @@
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=GabrielMeno&label=Profile%20Views&color=fab387&style=flat" alt="Profile Views" />
 </div>
-<br>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:fab387,100:fe8019&height=150&section=footer&animation=twisting" width="100%"/>
