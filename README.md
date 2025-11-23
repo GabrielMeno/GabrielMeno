@@ -27,9 +27,9 @@
 
 <br>
 
-<h3 align="center">🐍 My Contribution Snake</h3>
+<h3 align="center">🧱 My 3D Contributions</h3>
 <div align="center">
-  <img src="https://raw.githubusercontent.com/GabrielMeno/GabrielMeno/output/github-contribution-grid-snake.svg" alt="snake eating my contributions" />
+  <img src="https://raw.githubusercontent.com/GabrielMeno/GabrielMeno/output/profile-3d-contrib/profile-night-rainbow.svg" alt="3d contribution graph" />
 </div>
 
 <br>
@@ -48,4 +48,3 @@
   </a>
 </div>
 <br>
-
