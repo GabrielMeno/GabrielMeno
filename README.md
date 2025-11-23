@@ -20,36 +20,9 @@
 
 <br>
 
-<h3 align="center">🎨 Creative Focus & Workflow</h3>
+<h3 align="center">⏳ Productive Time</h3>
 <div align="center">
-  <table>
-    <tr>
-      <td align="center" width="120">
-        <img src="https://cdn-icons-png.flaticon.com/512/1253/1253648.png" width="45" style="filter: invert(100%);"><br>
-        <b>UI/UX Design</b><br>
-        <font size="2">Web & Mobile</font>
-      </td>
-      <td align="center" width="120">
-        <img src="https://cdn-icons-png.flaticon.com/512/3059/3059537.png" width="45" style="filter: invert(100%);"><br>
-        <b>Motion</b><br>
-        <font size="2">After Effects</font>
-      </td>
-      <td align="center" width="120">
-        <img src="https://cdn-icons-png.flaticon.com/512/1055/1055666.png" width="45" style="filter: invert(100%);"><br>
-        <b>Visual</b><br>
-        <font size="2">Ps & Illustrator</font>
-      </td>
-    </tr>
-  </table>
-</div>
-
-<div align="center">
-  <a href="https://www.behance.net/" target="_blank">
-    <img src="https://img.shields.io/badge/Behance-1769ff?style=for-the-badge&logo=behance&logoColor=white&color=D00000" target="_blank">
-  </a>
-  <a href="https://dribbble.com/" target="_blank">
-    <img src="https://img.shields.io/badge/Dribbble-ea4c89?style=for-the-badge&logo=dribbble&logoColor=white&color=9D0208" target="_blank">
-  </a>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=GabrielMeno&theme=radical&utcOffset=-3" />
 </div>
 
 <br>
