@@ -49,7 +49,7 @@
 <br>
 
 <div align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=gruvbox" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=GabrielMeno&theme=gruvbox" />
 </div>
 
 <br>
