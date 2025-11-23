@@ -11,20 +11,24 @@
         <img height="180em" src="https://github-readme-stats.vercel.app/api?username=GabrielMeno&show_icons=true&theme=radical&include_all_commits=true&count_private=true&hide_border=true"/>
       </td>
       <td align="center">
-        <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=GabrielMeno&theme=radical&hide_border=true"/>
+        <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GabrielMeno&layout=compact&langs_count=7&theme=radical&hide_border=true"/>
       </td>
     </tr>
   </table>
-
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GabrielMeno&layout=compact&langs_count=7&theme=radical&hide_border=true"/>
 
 </div>
 
 <br>
 
-<h3 align="center">🏆 Achievements</h3>
+<h3 align="center">📈 Monthly Activity</h3>
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=GabrielMeno&theme=radical&no-frame=true&no-bg=true&margin-w=4" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=GabrielMeno&theme=radical&hide_border=true" width="100%"/>
+</div>
+
+<br>
+
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=GabrielMeno&theme=radical&hide_border=true" />
 </div>
 
 <br>
