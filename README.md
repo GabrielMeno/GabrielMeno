@@ -39,6 +39,12 @@
 </div>
 
 <br>
+
+<div align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" />
+</div>
+
+<br>
 <hr>
 
 <h3 align="center">📩 Contact & Social</h3>
@@ -52,5 +58,9 @@
   <a href="https://www.linkedin.com/in/gabrielmenoncin/" target="_blank">
     <img src="https://img.shields.io/badge/-LinkedIn-%236A040F?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank">
   </a>
+</div>
+<br>
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=GabrielMeno&label=Profile%20Views&color=9d0208&style=flat" alt="Profile Views" />
 </div>
 <br>
