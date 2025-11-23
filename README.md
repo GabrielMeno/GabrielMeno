@@ -1,7 +1,7 @@
 <div align="center">
 
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=30&pause=1000&color=FF3333&center=true&vCenter=true&width=435&lines=Hey+there!+I'm+Gabriel+%F0%9F%91%8B;Developer+%26+Designer;Java+%7C+React+%7C+UX%2FUI" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=30&pause=1000&color=FF3333&center=true&vCenter=true&width=435&lines=Hey+there!+I'm+Gabriel+%F0%9F%91%8B;Developer+%26+Designer;Java+%7C+React+%7C+Motion+%26+UX" alt="Typing SVG" />
   </a>
   <br/>
 
@@ -16,6 +16,40 @@
     </tr>
   </table>
 
+</div>
+
+<br>
+
+<h3 align="center">🎨 Creative Focus & Workflow</h3>
+<div align="center">
+  <table>
+    <tr>
+      <td align="center" width="120">
+        <img src="https://cdn-icons-png.flaticon.com/512/1253/1253648.png" width="45" style="filter: invert(100%);"><br>
+        <b>UI/UX Design</b><br>
+        <font size="2">Web & Mobile</font>
+      </td>
+      <td align="center" width="120">
+        <img src="https://cdn-icons-png.flaticon.com/512/3059/3059537.png" width="45" style="filter: invert(100%);"><br>
+        <b>Motion</b><br>
+        <font size="2">After Effects</font>
+      </td>
+      <td align="center" width="120">
+        <img src="https://cdn-icons-png.flaticon.com/512/1055/1055666.png" width="45" style="filter: invert(100%);"><br>
+        <b>Visual</b><br>
+        <font size="2">Ps & Illustrator</font>
+      </td>
+    </tr>
+  </table>
+</div>
+
+<div align="center">
+  <a href="https://www.behance.net/" target="_blank">
+    <img src="https://img.shields.io/badge/Behance-1769ff?style=for-the-badge&logo=behance&logoColor=white&color=D00000" target="_blank">
+  </a>
+  <a href="https://dribbble.com/" target="_blank">
+    <img src="https://img.shields.io/badge/Dribbble-ea4c89?style=for-the-badge&logo=dribbble&logoColor=white&color=9D0208" target="_blank">
+  </a>
 </div>
 
 <br>
@@ -37,7 +71,7 @@
 <div align="center">
   <img src="https://skillicons.dev/icons?i=c,java,mysql,postgres,ts,react,html,css,git,github&theme=dark" />
   <br/><br/>
-  <img src="https://skillicons.dev/icons?i=ps,ai,ae,figma,xd&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=ps,ai,ae,pr,figma,xd&theme=dark" />
 </div>
 
 <br>
