@@ -29,7 +29,7 @@
 
 <h3 align="center">🐍 My Contribution Snake</h3>
 <div align="center">
-  <img src="https://github.com/GabrielMeno/GabrielMeno/blob/output/github-contribution-grid-snake.svg" alt="snake eating my contributions" />
+  <img src="https://raw.githubusercontent.com/GabrielMeno/GabrielMeno/output/github-contribution-grid-snake.svg" alt="snake eating my contributions" />
 </div>
 
 <br>
