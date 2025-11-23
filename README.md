@@ -47,15 +47,10 @@
 </div>
 
 <br>
-
-<div align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=GabrielMeno&theme=gruvbox" />
-</div>
-
 <br>
-<hr>
 
-<h3 align="center">📩 Contact & Social</h3>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=fab387&height=120&section=footer" width="100%"/>
+
 <div align="center">
   <a href="https://www.instagram.com/meno.gabriel1" target="_blank">
     <img src="https://img.shields.io/badge/-Instagram-%23fab387?style=for-the-badge&logo=instagram&logoColor=black" target="_blank">
